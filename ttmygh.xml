@@ -10,7 +10,7 @@
     xmlns:media="http://search.yahoo.com/mrss/">
 
 <channel>
-    <title>The Grant Williams Podcast</title>
+    <title>The Grant Williams Podcast - hack feed</title>
     <atom:link href="https://feed.podbean.com/ttmygh/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://www.grant-williams.com</link>
     <description>Join Grant Williams and his guests for a series of random walks around the fringes of finance and gain a better understanding of how the economic sands are shifting beneath our feet. https://www.grant-williams.com</description>
@@ -35,7 +35,7 @@
     </itunes:owner>
 	<itunes:block>No</itunes:block>
 	<itunes:explicit>yes</itunes:explicit>
-    <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/8087777/PODCAST_THUMBNAIL-80_percent.jpg" />
+    <itunes:image href="https://overcast.fm/art/full/2903175?1" />
     <image>
         <url>https://pbcdn1.podbean.com/imglogo/image-logo/8087777/PODCAST_THUMBNAIL-80_percent.jpg</url>
         <title>The Grant Williams Podcast</title>
